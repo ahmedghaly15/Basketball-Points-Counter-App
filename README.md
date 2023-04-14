@@ -1,4 +1,4 @@
-# Points-Counter-App
+# Basketball-Points-Counter-App
 
 A new Flutter application.
 
