@@ -1,10 +1,10 @@
-# Points-Counter-App
+# Basketball-Points-Counter-App
 
 A new Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application, helps you control the points of a basketball game.
+This project is a starting point for a Flutter application, helps you control the points of a basketball game using BloC state management. 
 
 A few resources to get you started if this is your first Flutter project:
 
